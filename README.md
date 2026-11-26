@@ -1,8 +1,8 @@
-# 🏧 Bintang Bank ATM System
+# Bintang Bank ATM System
 
 An interactive Java Swing desktop ATM simulation built in Apache NetBeans. Designed with a dark-and-gold terminal theme, on-screen tactile keypads, real-time session security, and automated banknote breakdown calculations.
 
-## ✨ Key Features
+## Key Features
 
 - **Interactive Card Insertion & Live Clock (`HOME`):** Real-time system status indicator, live digital clock, and simulated chip-reading transition.
 - **Tactile PIN Verification (`Next`):** On-screen numeric keypad (`0–9`, `CLEAR`, `ENTER`) with masked PIN entry, audio beep feedback, and a **3-attempt security lockout** that retains the card after repeated invalid tries.
